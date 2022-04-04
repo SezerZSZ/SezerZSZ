@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SezerZSZ
-- 👀 I’m interested in Python programming, Data Science, Front End and Back End development, AI, Machine Learning
+- 👀 I’m interested in Python programming, Data Science, Front End and Back End development, AI, Machine Learning, Cyber Security
 - 🌱 I’m currently learning Python
 - 🌇 I’m looking to collaborate on Python projects
 - 📫 How to reach me: zszsoftware@gmail.com 
